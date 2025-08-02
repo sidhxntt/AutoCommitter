@@ -9,3 +9,6 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/sidhxntt/AutoCommitter.git
 git push -u origin main
+
+
+so yes

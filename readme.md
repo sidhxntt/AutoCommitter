@@ -1,22 +1,11 @@
-Advanced macOS System Optimizer
+AUTO - COMMITER
 
-This comprehensive script performs multiple optimization tasks:
+PS - its only for ongoing project, for new projects you need follow the instructions that Github provides:
 
-1. Cleans system and user caches
-2. Removes temporary files and application junk
-3. Clears log files and crash reports
-4. Fixes broken preferences and permissions
-5. Purges memory and rebuilds spotlight index if needed
-6. Checks for and removes broken symbolic links
-7. Analyses disk usage and recommends large files for removal
-8. Optimizes launch services database
-9. Manages system maintenance tasks
-
-Features:
-
-- Parallel processing for speed
-- Comprehensive reporting
-- Safety checks and confirmations
-- Full macOS compatibility
-- Supports both Intel and Apple Silicon
-  """
+echo "# AutoCommitter" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/sidhxntt/AutoCommitter.git
+git push -u origin main

@@ -1,8 +1,8 @@
 {
-  "name": "auto_committer",
-  "version": "",
+  "name": "git-it-done",
+  "version": "1.0.0",
   "bin": {
-    "optimac": "./dist/index.js"
+    "git-it-done": "./dist/index.js"
   },
   "scripts": {
     "dev": "ts-node ./src/index.ts",
